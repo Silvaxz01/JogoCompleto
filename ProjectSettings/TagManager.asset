@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Imagens
+  - img1
+  - img2
+  - player
+  - keys
+  - porta
+  - Peixe
+  - Container
+  - Lixeira
+  - Lixo
+  - Lixo1
+  - Lixo2
+  - Lixo3
+  - Lixo4
+  - Lixo5
+  - portao
+  - DeathZone
+  - TeleportZone
+  - Tele
+  - limpa
+  - arealimpa
+  - Teleporter
+  - foralixo
+  - colorBox
+  - dica
+  - offdica
+  - obj5
+  - dica1
+  - offdica1
+  - Mochila
+  - Limpa
+  - vazio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - chao
+  - Water
+  - UI
+  - player
+  - colorBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 692206595
+    locked: 0
+  - name: 2
+    uniqueID: 2769231211
+    locked: 0
+  - name: player
+    uniqueID: 1766349401
+    locked: 0
+  - name: -1
+    uniqueID: 580730045
+    locked: 0
+  - name: -2
+    uniqueID: 4190200569
+    locked: 0
